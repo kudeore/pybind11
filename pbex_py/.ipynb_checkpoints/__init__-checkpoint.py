@@ -1,0 +1,1 @@
+from .test import py_func
